@@ -1,7 +1,7 @@
 
 ![alt text](https://i.ibb.co/vBHKqqV/logo200.png)
 ## Grimm. No one will ever know
-- [Website grimmw.com](https://grimmw.com)
+
 ### Current status
 
 #### Mainnet online. First block "timestamp":1564997815 Aug. 5th, 2019 @ 9:36am (UTC) [mainnet branch](https://github.com/freenetcoder/grimm/tree/mainnet)
@@ -22,17 +22,7 @@ We designed Grimm so that it doesn’t depend on any one person. We don’t cont
 - [Read our Manifesto](https://github.com/freenetcoder/Manifesto/blob/master/Manifesto.md)
 
 
-### ON TELEGRAM
-
-[English](https://t.me/grimmw) | [Русский](https://t.me/grimmwru)
-
-### DISCORD
-
-[invite link](https://discord.gg/XKgPPW2)
-
 ### EITHER HELP US, OR GET OUT OF OUR WAY
-
-[twitter](https://twitter.com/grimmwcom) | [medium](https://medium.com/grimmwcom) | [bitcointalk](https://bitcointalk.org)
 
 ## Grimm spec.
 - Protocol / MimbleWimble
