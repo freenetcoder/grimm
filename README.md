@@ -1,3 +1,7 @@
+CMC socials update request #1150205:
+
+Delete current socials and grimm website. New links will be available after core upgrade. 
+
 
 ![alt text](https://i.ibb.co/vBHKqqV/logo200.png)
 ## Grimm. No one will ever know
